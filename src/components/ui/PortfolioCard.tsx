@@ -23,13 +23,6 @@ export default function PortfolioCard({ project }: PortfolioCardProps) {
         />
         <div className="absolute inset-0 bg-gradient-to-t from-[#0F1724] via-transparent to-transparent opacity-80" />
 
-        {/* DEMO PROJECT BADGE */}
-        <div className="absolute top-3 left-3">
-          <span className="px-2.5 py-1 rounded-md text-[11px] font-bold tracking-wider uppercase bg-[#0F1724]/85 text-[#5CE7FE] border border-[#5CE7FE]/40 backdrop-blur-md shadow-md">
-            DEMO PROJECT
-          </span>
-        </div>
-
         {/* Category Badge */}
         <div className="absolute top-3 right-3">
           <span className="px-2.5 py-1 rounded-md text-[11px] font-medium bg-white/10 text-slate-200 backdrop-blur-md border border-white/10">

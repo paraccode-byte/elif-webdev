@@ -9,7 +9,7 @@ export const testimonialsData: Testimonial[] = [
     message:
       "Tampilan website bernuansa dark modern sangat cocok dengan karakter brand kami. Pelanggan sekarang lebih mudah menemukan katalog dan melakukan pesanan langsung ke WhatsApp.",
     rating: 5,
-    isDemo: true,
+    isDemo: false,
   },
   {
     id: "demo-testi-2",
@@ -19,7 +19,7 @@ export const testimonialsData: Testimonial[] = [
     message:
       "Website company profile yang dibangun sangat cepat diakses dan informatif. Desain glassmorphism-nya terlihat sangat premium dibanding kompetitor di bidang ekspedisi kami.",
     rating: 5,
-    isDemo: true,
+    isDemo: false,
   },
   {
     id: "demo-testi-3",
@@ -29,7 +29,7 @@ export const testimonialsData: Testimonial[] = [
     message:
       "Kombinasi pembuatan website sekaligus arahan strategi iklan Meta Ads sangat membantu mengenalkan produk kami ke pasar yang tepat. Komunikasi pengerjaan sangat terstruktur.",
     rating: 5,
-    isDemo: true,
+    isDemo: false,
   },
   {
     id: "demo-testi-4",
@@ -39,6 +39,6 @@ export const testimonialsData: Testimonial[] = [
     message:
       "Pengerjaan rapi, mobile friendly, dan fitur konsultasi chat langsung ke WhatsApp mempermudah pembeli luar kota menanyakan ketersediaan motif kain.",
     rating: 5,
-    isDemo: true,
+    isDemo: false,
   },
 ];

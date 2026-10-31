@@ -3,8 +3,8 @@ import { PortfolioProject } from "@/types";
 export const portfolioProjects: PortfolioProject[] = [
   {
     id: "demo-restaurant",
-    slug: "bistro-delight-restaurant",
-    title: "Bistro & Gourmet Experience",
+    slug: "flavit-restaurant",
+    title: "flavit Gourmet Experience",
     category: "restaurant",
     categoryLabel: "Restaurant Website",
     description:
@@ -19,13 +19,13 @@ export const portfolioProjects: PortfolioProject[] = [
       "Desain mobile-first untuk pelanggan yang browsing dari ponsel",
     ],
     techStack: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "WhatsApp Integration"],
-    image: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=80",
-    isDemo: true,
+    image: "https://ik.imagekit.io/jfqsn6cwe/Image_in_web/baa207731e664afb0c7aaff5c6e0ef09.jpg",
+    isDemo: false,
   },
   {
     id: "demo-ecommerce",
-    slug: "aurora-boutique-ecommerce",
-    title: "Aurora Modern Fashion Store",
+    slug: "shadxw-ecommerce",
+    title: "Shadxw Store",
     category: "ecommerce",
     categoryLabel: "E-Commerce",
     description:
@@ -40,13 +40,13 @@ export const portfolioProjects: PortfolioProject[] = [
       "Optimasi Core Web Vitals untuk konversi maksimal",
     ],
     techStack: ["Next.js", "TypeScript", "Tailwind CSS", "Lucide React", "Local Storage Cart"],
-    image: "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=1200&q=80",
-    isDemo: true,
+    image: "https://ik.imagekit.io/jfqsn6cwe/Image_in_web/f5e81a6b76c64e0649ad463488210d36.jpg",
+    isDemo: false,
   },
   {
     id: "demo-company-profile",
-    slug: "nexus-corporate-consulting",
-    title: "Nexus Global Consulting",
+    slug: "chronotask-corporate-consulting",
+    title: "Chrono task",
     category: "company-profile",
     categoryLabel: "Company Profile",
     description:
@@ -61,13 +61,13 @@ export const portfolioProjects: PortfolioProject[] = [
       "Integrasi Schema.org Organization untuk visibilitas mesin pencari",
     ],
     techStack: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "Schema.org"],
-    image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-    isDemo: true,
+    image: "https://ik.imagekit.io/jfqsn6cwe/Image_in_web/a28129ed6c10e6ac48f440d66683bfeb.jpg",
+    isDemo: false,
   },
   {
     id: "demo-property",
-    slug: "grand-sapphire-residence",
-    title: "Grand Sapphire Living",
+    slug: "homevia-residence",
+    title: "homevia residence",
     category: "property",
     categoryLabel: "Property Website",
     description:
@@ -82,7 +82,7 @@ export const portfolioProjects: PortfolioProject[] = [
       "Download brosur digital dalam format responsif",
     ],
     techStack: ["Next.js", "TypeScript", "Tailwind CSS", "Glassmorphism UI", "WhatsApp CTA"],
-    image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-    isDemo: true,
+    image: "https://ik.imagekit.io/jfqsn6cwe/Image_in_web/a52ca89a511c12db1f7085af5603e2ca.jpg",
+    isDemo: false,
   },
 ];

@@ -21,12 +21,6 @@ export default function TestimonialsSection() {
               className="p-6 flex flex-col justify-between h-full relative group"
             >
               <div>
-                {/* DEMO BADGE */}
-                <div className="mb-4">
-                  <span className="px-2 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider bg-white/[0.06] text-[#5CE7FE] border border-[#5CE7FE]/30">
-                    CONTOH TESTIMONI / DEMO
-                  </span>
-                </div>
 
                 {/* Rating Stars */}
                 <div className="flex items-center gap-1 mb-4 text-amber-400">

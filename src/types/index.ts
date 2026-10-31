@@ -88,14 +88,14 @@ export interface PortfolioProject {
   id: string;
   slug: string;
   title: string;
-  category: "restaurant" | "ecommerce" | "company-profile" | "property";
+  category: string;
   categoryLabel: string;
   description: string;
   fullDescription: string;
   keyFeatures: string[];
   techStack: string[];
   image: string;
-  isDemo: true;
+  isDemo: false;
   demoUrl?: string;
 }
 
@@ -106,7 +106,7 @@ export interface Testimonial {
   business: string;
   message: string;
   rating: number;
-  isDemo: true;
+  isDemo: false;
 }
 
 export interface Article {

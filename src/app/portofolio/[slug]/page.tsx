@@ -86,9 +86,6 @@ export default async function PortfolioDetailPage({
         {/* Hero Section */}
         <div className="space-y-4 mb-10 max-w-4xl">
           <div className="flex flex-wrap items-center gap-2.5">
-            <span className="px-3 py-1 rounded-md text-xs font-bold tracking-wider uppercase bg-[#5CE7FE]/15 text-[#5CE7FE] border border-[#5CE7FE]/30">
-              DEMO PROJECT
-            </span>
             <span className="px-3 py-1 rounded-md text-xs font-medium bg-white/[0.06] text-slate-300 border border-white/[0.08]">
               {project.categoryLabel}
             </span>
